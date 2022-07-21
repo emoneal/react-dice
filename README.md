@@ -1,0 +1,1 @@
+A quick React app for generating 5 random dice rolls.
